@@ -1,0 +1,60 @@
+*{
+	
+	margin: 0px;
+	padding: 0px;
+	background: #d1ebf7;
+
+
+}
+header nav ul li a {
+
+	float: left;
+	padding: 1px;
+	background: pink;
+	text-decoration: none;
+	
+}
+header nav ul li a:hover {
+	background: #d1ebf7;
+
+
+}
+.primera{
+	width: 20%;
+	margin: 10px;
+	padding: 30px;
+}
+h1{
+	text-align: center;
+
+
+}
+h2{
+	text-align: center;
+
+
+}
+p{
+	text-align: center;
+}
+
+header nav ul{
+	list-style: none;
+	overflow: hidden;
+
+
+}
+ 
+footer{
+	background: pink;
+	padding: 20px;
+}
+}
+@media screen and(max-width: 400px){
+img{
+	margin: 20px;
+	display: absolute;
+	display: auto; 
+	width: 50%;
+
+}
